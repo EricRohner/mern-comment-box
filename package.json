@@ -1,0 +1,7 @@
+{
+  "name": "mern-comment-box",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eric Rohner <ericrohner22@gmail.com>",
+  "license": "MIT"
+}
